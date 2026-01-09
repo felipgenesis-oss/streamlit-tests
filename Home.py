@@ -16,7 +16,7 @@ st.set_page_config(
     page_title="Portal CPCAD", 
     layout="centered", 
     page_icon="⚖️", 
-    initial_sidebar_state="collapsed"
+    initial_sidebar_state="auto"
 )
 
 st.image(TJRO_IMAGE, width=200)
